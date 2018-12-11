@@ -970,7 +970,7 @@ var _jsxFileName = "/Users/graham/GitHub/with-jest/pages/index.js";
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(styled_jsx_style__WEBPACK_IMPORTED_MODULE_0___default.a, {
     styleId: "2982525546",
-    css: "p.jsx-2982525546{color:red;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9ncmFoYW0vR2l0SHViL3dpdGgtamVzdC9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFZ0IsQUFHbUIsVUFDWiIsImZpbGUiOiIvVXNlcnMvZ3JhaGFtL0dpdEh1Yi93aXRoLWplc3QvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgcCB7XG4gICAgICAgIGNvbG9yOiByZWQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICAgIDxwPkhlbGxvIFdvcmxkITwvcD5cbiAgPC9kaXY+XG4pXG4iXX0= */\n/*@ sourceURL=/Users/graham/GitHub/with-jest/pages/index.js */",
+    css: "p.jsx-2982525546{color:red;}\n/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi9Vc2Vycy9ncmFoYW0vR2l0SHViL3dpdGgtamVzdC9wYWdlcy9pbmRleC5qcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFFZ0IsQUFHbUIsVUFDWiIsImZpbGUiOiIvVXNlcnMvZ3JhaGFtL0dpdEh1Yi93aXRoLWplc3QvcGFnZXMvaW5kZXguanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCAoKSA9PiAoXG4gIDxkaXY+XG4gICAgPHN0eWxlIGpzeD57YFxuICAgICAgcCB7XG4gICAgICAgIGNvbG9yOiByZWQ7XG4gICAgICB9XG4gICAgYH08L3N0eWxlPlxuICAgIDxwPkhlbGxvIFdvcmxkITwvcD5cbiAgICA8c3Bhbj5BbHNvIG1vb248L3NwYW4+XG4gIDwvZGl2PlxuKTtcbiJdfQ== */\n/*@ sourceURL=/Users/graham/GitHub/with-jest/pages/index.js */",
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", {
     className: "jsx-2982525546",
@@ -979,7 +979,14 @@ var _jsxFileName = "/Users/graham/GitHub/with-jest/pages/index.js";
       lineNumber: 8
     },
     __self: this
-  }, "Hello World!"));
+  }, "Hello World!"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("span", {
+    className: "jsx-2982525546",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 9
+    },
+    __self: this
+  }, "Also moon"));
 });
     (function (Component, route) {
       if(!Component) return
